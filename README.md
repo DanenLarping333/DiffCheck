@@ -2,6 +2,8 @@
 
 Compare two versions of text in your browser. Added lines are green, removed lines are red, and matching lines remain neutral.
 
+Link:https://danenlarping333.github.io/DiffCheck/
+
 ## Run locally
 
 Extract the ZIP and open **index.html**. Keep `app.js`, `core.js`, and `style.css` alongside it. No installation or internet connection is required.
